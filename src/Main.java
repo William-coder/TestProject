@@ -14,4 +14,7 @@ public class Main {
     int integer(){
         return 1;
     }
+    float floatNum(){
+        return 1.223f;
+    }
 }
