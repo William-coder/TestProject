@@ -21,4 +21,10 @@ public class Main {
     float mult(int x, int y){
         return x+y;
     }
+
+    void newfunc(){
+        System.out.println("krfrehu");
+    }
+
+    
 }
