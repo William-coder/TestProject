@@ -22,7 +22,9 @@ public class Main {
         return x+y;
     }
 
-    void uewfg(){
-        System.out.println("fiiewffiewrfiiye");
+    void newfunc(){
+        System.out.println("krfrehu");
     }
+
+
 }
