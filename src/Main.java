@@ -10,4 +10,8 @@ public class Main {
     boolean bool(float x){
         return x == x;
     }
+
+    int integer(){
+        return 1;
+    }
 }
