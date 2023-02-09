@@ -4,5 +4,10 @@ public class Main {
 	// write your code here
         String msg = "hello world!";
         System.out.printf("%s",msg);
+        //hello peeps
+    }
+
+    boolean bool(float x){
+        return x == x;
     }
 }
