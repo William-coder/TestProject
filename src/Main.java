@@ -17,4 +17,8 @@ public class Main {
     float floatNum(){
         return 1.223f;
     }
+
+    float mult(int x, int y){
+        return x+y;
+    }
 }
